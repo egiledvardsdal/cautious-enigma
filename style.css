@@ -31,6 +31,9 @@ main{
     width: auto;
     height: auto;
 }
+.footeravoid{
+    margin-bottom: 45px;
+}
 .setkol-3{
     grid-column-start: 3;
     grid-column-end: 3;
@@ -165,7 +168,6 @@ footer{
     bottom:0;
     position: fixed;
     text-align: center;
-    margin-top: 2px;
 }
 footer>a{
     margin: 40px;
