@@ -10,18 +10,26 @@ main{
 .kol-1{
     grid-column:span1;
     max-width: 100%;
+    width: auto;
+    height: auto;
 }
 .kol-2{
     grid-column:span2;
     max-width: 200%;
+    width: auto;
+    height: auto;
 }
 .kol-3{
     grid-column:span3;
     max-width: 300%;
+    width: auto;
+    height: auto;
 }
 .kol-4{
     grid-column:span4;
     max-width: 400%;
+    width: auto;
+    height: auto;
 }
 .setkol-3{
     grid-column-start: 3;
