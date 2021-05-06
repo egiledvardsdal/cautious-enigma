@@ -169,4 +169,6 @@ footer{
 }
 footer>a{
     margin: 40px;
+    text-decoration: none;
+    text-align: center;
 }
